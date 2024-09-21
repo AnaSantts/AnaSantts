@@ -1,16 +1,33 @@
-## Hi there 👋
+# Oii, eu sou Ana Beatriz!✨
 
-<!--
-**AnaSantts/AnaSantts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub!😊
 
-Here are some ideas to get you started:
+## 👩🏽Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> - Formação: Técnico em Informática - IFPB Campus Cajazeiras.
+          <br><br>
+- Aprendendo atualmente: HTML e CSS.
+          <br><br>
+-  Interesses: Ciências da Computação, Tecnologia na Saúde, IoT, IA, Desenvolvimento WEB e de Software.
+</p>
+
+## 💻Linguagens e Ferramentas
+
+<div style="display: inline_block"><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30">
+  <img src="http://tcnpenalar.weebly.com/uploads/2/6/3/2/26325807/published/logo-tinkercad-256.png?1491305205" alt="Tinkercad" width="30">
+</div>
+
+## 📩 Meu currículo
+
+Para uma visão detalhada das minhas experiências e competências, acesse meu currículo [aqui](https://anasantts.github.io/Curriculo/).
+
+## 📈 Minhas Contribuições
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaSantts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnaSantts&layout=compact&langs_count=8&theme=algolia"/>
+</div>
