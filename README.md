@@ -4,16 +4,15 @@ Bem-vindo ao meu perfil do GitHub!😊
 
 ## 👩🏽Sobre mim
 
-<p> - Formação: Técnico em Informática - IFPB Campus Cajazeiras.
-          <br><br>
+- Formação: Técnico em Informática - IFPB Campus Cajazeiras.
+          
 - Aprendendo atualmente: HTML e CSS.
-          <br><br>
+          
 -  Interesses: Ciências da Computação, Tecnologia na Saúde, IoT, IA, Desenvolvimento WEB e de Software.
-</p>
-
+ 
 ## 💻Linguagens e Ferramentas
 
-<div style="display: inline_block"><br>
+<div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30">
